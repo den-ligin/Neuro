@@ -7,7 +7,7 @@ using namespace std;
 
 class TestGenerator{
 public:
-
+	bool generate(int numOfVars,int numOfTests);
 
 private:
 	bool isT0();
